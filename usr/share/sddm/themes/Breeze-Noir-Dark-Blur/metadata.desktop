@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Breeze-Noir-Dark-Blur
+Description=Breeze-Noir-Dark-Blur SDDM Theme
+Author=KDE Visual Design Group (Modified by l4k1)
+Copyright=(c) 2014, David Edmundson
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/sddm/sddm
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=plasma-devel@kde.org
+Theme-Id=Breeze-Noir-Dark-Blur
+Theme-API=2.0
